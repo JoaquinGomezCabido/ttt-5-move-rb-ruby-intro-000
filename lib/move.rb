@@ -14,5 +14,4 @@ end
 
 def move(array, index, symbol = "X")
   array[index] = symbol
-  return array
 end
